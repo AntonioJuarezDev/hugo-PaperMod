@@ -40,6 +40,10 @@
     width: 26px;
 }
 
+.social-icons a svg:hover {
+    stroke: var(--accent-color);
+}
+
 code {
     direction: ltr;
 }
