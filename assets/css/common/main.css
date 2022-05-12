@@ -41,7 +41,7 @@
 }
 
 .social-icons a svg:hover {
-    stroke: var(--accent-color);
+    stroke: var(--accent);
 }
 
 code {
