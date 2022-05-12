@@ -316,13 +316,14 @@
     padding-inline-start: 14px;
     padding-inline-end: 14px;
     color: var(--secondary);
-    font-size: 14px;
+    font-size: 15px;
     line-height: 34px;
     background: var(--code-bg);
 }
 
 .post-tags a:hover {
-  background: var(--border);
+  color: var(--primary);
+  /*background: var(--border);*/
 }
 
 .paginav a:hover {
